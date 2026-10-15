@@ -1,0 +1,19 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Ambienti virtuali ---
+.venv_*/
+venv/
+.venv/
+env/
+
+# --- File di sistema ---
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
